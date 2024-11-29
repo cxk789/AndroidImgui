@@ -4,7 +4,7 @@
 
 [Dear ImGui](https://github.com/ocornut/imgui.git)以`opengles`和`vulkan`为后端在android平台上的封装，支持加载图片纹理等，两个后端可以无缝切换，可以开箱即用
 
-#### 使用
+#### 使
 
 ```cmake
 set(CMAKE_CXX_STANDARD 20)
